@@ -87,10 +87,10 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
-			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(usegerberextensions yes)
+			(usegerberattributes no)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -116,12 +116,12 @@
 			(hidednponfab no)
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "MAKEEN_Keypad_Test_PCB_Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -4338,7 +4338,7 @@
 			)
 		)
 		(property "Value" "Pi5_Conn_GPIO"
-			(at 3.04 -25.73 -90)
+			(at 3.04 -25.73 270)
 			(layer "B.SilkS")
 			(uuid "247d618c-b0c6-45a8-b666-bdb3d9ea5ed2")
 			(effects
@@ -5187,7 +5187,25 @@
 			"8zJENiJXoHHvLWhsINSQtiEpgdToJXoJXXbFuFBQRv600H7Mmfd5VpPf2U0yb85MEwAAAAAAAAAA"
 			"AAAAAAAAAACwGrvlMIJfH/7y48vd7o9pmm4vzxjTbp6OT1+cnSx3btat5TCCl7tbxz7+bZl30/Hh"
 			"w4Oj5c7NGjIA0zR/uVwYnwjs35C/AI8fHcyvnk+enr55yFCOnhwuJ78DezToDYAtcxPYHwFgNe7f"
-			"f/D6"
+			"f/D6tAEAAEiQkQe0AQAAGI6RB7QBAAC47vK4tAEAALCEmg+0AQAAAIaaD7QBAAAwiJoPtAEAANCD"
+			"mg+0AQAAaBq5t7QBAADoIUm4tAEAAGB1mg+0AQAA4H+aD7QBAABQa5oPtAEAAIBmmg+0AQAA4Gqa"
+			"D7QBAADQZ5oPtAEAAFBymg+0AQAA8GaaD7QBAACwfZoPtAEAAMBrmg+0AQAAMGWaD7QBAABweJoP"
+			"tAEAAKBsmg+0AQAAMHqaD7QBAAAAcZoPtAEAAHB/mg+0AQAA4HGaD7QBAADAeZoPtAEAAEB9mg+0"
+			"AQAAMGyaD7QBAAAAeJoPtAEAAIB0mg+0AQAAkH6aD7QBAAAgcJoPtAEAACB+mg+0AQAAoGWaD7QB"
+			"AACwaJoPtAEAAPB0mg+0AQAAYHyaD7QBAABQgJoPtAEAABB0mg+0AQAAkHCaD7QBAACoKrm3tAEA"
+			"AFj38ri0AQAAuOXyuLQBAACY6vK4tAEAAFjl8ri0AQAAWOLyuLQBAAD48PK4tAEAAFju8ri0AQAA"
+			"OOryuLQBAAA47fK4tAEAABjy8ri0AQAAWPHyuLQBAAD44fK4tAEAABjs8ri0AQAA2OnyuLQBAAB4"
+			"7PK4tAEAADjk8ri0AQAAQG+aD7QBAACgc5oPtAEAAHBxmg+0AQAAuBtJuLQBAACQh5F+tAEAAIjo"
+			"SLi0AQAA8EWRfrQBAACY9ki4tAEAAGAckX60AQAAiPpIuLQBAAAQgZB+tAEAALjBSLi0AQAAQKqP"
+			"frQBAAA42Ei4tAEAAICTj360AQAA4ImPfrQBAACg/99NtAEAAKAN4E20AQAAAJCPfrQBAADwmo9+"
+			"tAEAAMCYj360AQAAUIOPfrQBAAAQhY9+tAEAAEgrube0AQAAoP/fTbQBAACgDeBNtAEAAACQj360"
+			"AQAA8JqPfrQBAADAmI9+tAEAAFCDj360AQAAEIWPfrQBAABIK7m3tAEAAPAAcQEFMfAAcQEFMfAA"
+			"cQEFMXINAAAAcgUAAAApCdoKX19mdXR1cmVfX3IDAAAAcjwAAADaE0Zvb3RwcmludFdpemFyZEJh"
+			"c2XaCFBhZEFycmF5ckgAAADaD0Zvb3RwcmludFdpemFyZHIFAAAA2ghyZWdpc3RlcnIIAAAAcg0A"
+			"EwAAEwUMOQAQ/30ptAEAANCQAHK0AQAAAABzkQAAAPADAQEB8CIAASDQAB/QAB/QAB/QAB/QAB/Y"
+			"AA2ADYANgA3gABrQABrQABrQABrYABXQABXQABXQABXwBFoCATHwAFoCATHwAFoCATHwAFoCATHw"
+			"AFoCATHQECPUEDPxAFoCATH0AFoCATHwAFoCATHweAQAAQqACYELhAvXABTSABTRABbUABbQABbQ"
+			"AA=="
 		)
 		(uuid "f5057520-2bee-4913-a9aa-cf5d55193c2c")
 	)
