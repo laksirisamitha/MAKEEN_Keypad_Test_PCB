@@ -2817,6 +2817,10 @@
 		(uuid "0061f41f-c9d2-4376-aadb-54b7942306d1")
 	)
 	(no_connect
+		(at 19.558 130.175)
+		(uuid "02890595-6a36-4a48-8b16-bff5f61ba922")
+	)
+	(no_connect
 		(at 106.934 89.789)
 		(uuid "10491000-23ac-4d72-864f-a83a5c7fd327")
 	)
@@ -2853,12 +2857,24 @@
 		(uuid "5ac22c89-dcf0-4245-84f3-f22298d3d34c")
 	)
 	(no_connect
+		(at 19.558 114.427)
+		(uuid "64c4bad0-6de1-4109-b10e-c0ea6aba0d9b")
+	)
+	(no_connect
+		(at 19.558 122.682)
+		(uuid "67ad2605-8227-4e7b-88eb-2dcf505b07eb")
+	)
+	(no_connect
 		(at 94.234 87.249)
 		(uuid "75c1400f-f639-4951-9817-d5ef6e23e69d")
 	)
 	(no_connect
 		(at 106.934 125.349)
 		(uuid "8a8a6c2e-c2f3-4959-9ae9-6b659f6b2fb1")
+	)
+	(no_connect
+		(at 19.558 138.557)
+		(uuid "8d149fab-a973-4479-957f-847998a0f896")
 	)
 	(no_connect
 		(at 94.234 94.869)
@@ -3861,7 +3877,25 @@
 			"AACx2RgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-			"AAAA"
+			"AAAAcmRzKCBwb3N0dXJlLCAgLXZzLCAtdnAsIHZlYzIoIC0xLCAgMSApLCB2ZWMyKCAgMSwgMCAp"
+			"LCBsaW5lV2lkdGgsIGZhbHNlICk7DQogICAgZWxzZSBpZiggbW9kZSA9PSBTSEFERVJfTElORV9D"
+			"ICkNCiAgICAgICAgY29tcHV0ZUxpbmVDb29yZHMoIHBvc3R1cmUsICB2cywgLXZwLCAgdmVjMigg"
+			"IDEsICAxICksIHZlYzIoICAxLCAwICksIGxpbmVXaWR0aCwgdHJ1ZSApOw0KICAgIGVsc2UgaWYo"
+			"IG1vZGUgPT0gU0hBREVSX0xJTkVfRCApDQogICAgICAgIGNvbXB1dGVMaW5lQ29vcmRzKCBwb3N0"
+			"dXJlLCAgdnMsIC12cCwgIHZlYzIoIC0xLCAtMSApLCB2ZWMyKCAgMSwgMCApLCBsaW5lV2lkdGgs"
+			"IHRydWUgKTsNCiAgICBlbHNlIGlmKCBtb2RlID09IFNIQURFUl9MSU5FX0UgKQ0KICAgICAgICBj"
+			"b21wdXRlTGluZUNvb3JkcyggcG9zdHVyZSwgIHZzLCB2cCwgICB2ZWMyKCAtMSwgIDEgKSwgdmVj"
+			"MiggLTEsIDAgKSwgbGluZVdpZHRoLCB0cnVlICk7DQogICAgZWxzZSBpZiggbW9kZSA9PSBTSEFE"
+			"RVJfTElORV9GICkNCiAgICAgICAgY29tcHV0ZUxpbmVDb29yZHMoIHBvc3R1cmUsICAtdnMsIHZw"
+			"LCAgdmVjMiggIDEsICAxICksIHZlYzIoIC0xLCAwICksIGxpbmVXaWR0aCwgZmFsc2UgKTsNCiAg"
+			"ICBlbHNlIGlmKCBtb2RlID09IFNIQURFUl9GSUxMRURfQ0lSQ0xFIHx8IG1vZGUgPT0gU0hBREVS"
+			"X1NUUk9LRURfQ0lSQ0xFKQ0KICAgICAgICBjb21wdXRlQ2lyY2xlQ29vcmRzKCBtb2RlLCB2X3No"
+			"YWRlclBhcmFtcy55LCB2X3NoYWRlclBhcmFtcy56LCB2X3NoYWRlclBhcmFtcy53ICk7DQogICAg"
+			"ZWxzZQ0KICAgIHsNCiAgICAgICAgLy8gUGFzcyB0aHJvdWdoIHRoZSBjb29yZGluYXRlcyBsaWtl"
+			"IGluIHRoZSBmaXhlZCBwaXBlbGluZQ0KICAgICAgICBnbF9Qb3NpdGlvbiA9IGZ0cmFuc2Zvcm0o"
+			"KTsNCiAgICAgICAgZ2xfRnJvbnRDb2xvciA9IGdsX0NvbG9yOw0KDQogICAgfQ0KDQogICAgZ2xf"
+			"UG9zaXRpb24ueHkgKz0gdV9hbnRpYWxpYXNpbmdPZmZzZXQ7DQp9AAAAAAAAAAAAAAAAAAAAAAAA"
+			"AA=="
 		)
 	)
 	(global_label "GND_RPi"
@@ -5382,7 +5416,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1f5fe3a0-e770-4a3d-bd4b-63397d929b95")
+			(uuid "1f5fe3a0-e770-4a3d-bd4b-63397d929b96")
 		)
 		(instances
 			(project ""
@@ -5656,7 +5690,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1f5fe3a0-e770-4a3d-bd4b-63397d929b95")
+			(uuid "1f5fe3a0-e770-4a3d-bd4b-63397d929b97")
 		)
 		(instances
 			(project ""
@@ -5922,7 +5956,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1f5fe3a0-e770-4a3d-bd4b-63397d929b95")
+			(uuid "1f5fe3a0-e770-4a3d-bd4b-63397d929b98")
 		)
 		(instances
 			(project ""
