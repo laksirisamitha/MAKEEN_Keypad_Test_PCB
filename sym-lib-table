@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MAKEEN_Keypad_Test_PCB")(type "KiCad")(uri "${KIPRJMOD}/Libraries/symbols/MAKEEN_Keypad_Test_PCB.kicad_sym")(options "")(descr ""))
+)
